@@ -1,0 +1,239 @@
+body{
+background-image: url(images/tlo.jpg);
+background-attachment: fixed;
+background-size: cover;
+height: 100%;
+margin: 0px;
+width: 100px;
+
+float: left;
+ position: relative;
+      left: 50%;
+}
+
+
+#aktualnosci{
+background-image: url(images/tlo_silver.png);
+max-width: 100%;
+min-width: 1902px;
+
+}
+
+.imiona{
+text-align: center;
+font-size: 20px;
+font-family: Segoe Print;
+
+
+}
+
+
+
+#menu{
+max-width: 100%;
+min-width: 1902px;
+height: 85px;
+background-color: #000099;
+
+
+
+
+
+}
+
+#okno{
+max-width: 100%;
+min-width: 1902px;
+height: 65%;
+
+
+
+
+
+}
+
+
+
+
+#napisik{
+float: right;
+position: relative;
+top: 23px ;
+left: 250px;
+font-family: Kalam;
+font-size: 120%;
+color: gold;
+
+}
+
+a{
+position: relative;
+
+padding: 20px 20px;
+font-size: 24px;
+color: gold;
+text-decoration: none;
+font-weight: bold;
+
+font-family: 'Audiowide', sans-serif; 
+width: 800px;
+}
+
+a.zielony:hover{
+
+color: yellow ;
+background-image: url(images/odnosnik_1.png);
+background-size: contain;
+
+}
+a.niebieski:hover{
+
+color: yellow ;
+background-image: url(images/odnosnik.png);
+background-size: contain;
+
+}
+a.zolty:hover{
+
+color: yellow ;
+background-image: url(images/odnosnik_2.png);
+background-size: contain;
+}
+#strzalka{
+position:relative;
+bottom: 10px;
+
+
+}
+
+#obrazek1{
+position: relative;
+left:30px;
+bottom: 15px;
+width: 250pt;
+
+
+}
+
+#linia_menu{
+position: relative;
+top: 8px;
+
+min-width: 951px;
+}
+
+
+
+
+
+
+
+#napiswww{
+float: right;
+position:relative;
+right: 20px;
+bottom: 15px;
+font-size:55px;
+font-family: Amatic sc;
+
+}
+
+
+#logo{
+
+max-width: 100%;
+min-width: 1902px;
+height: 190px;
+background-image: url(images/paseczek.png);
+background-size: 100% ;
+
+border-top-width: 1px;
+border-top-style: solid;
+border-top-color: #6600CC;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #3D3D3D;
+
+
+}
+
+#fb{
+width: 200px;
+height: 143px;
+border-radius: 0px 30px 30px 0px ;
+float: left;
+position: relative;
+left: 990px;
+top: 10px;
+text-align: center;
+font-size: 40px;
+color: gold;
+text-shadow: 0 0 10px white;
+font-family: Amatic sc;
+background-image: url(images/tlo_zegarka.png);
+
+
+
+}
+
+#zegar{
+width: 125px;
+height: 125px;
+border-radius: 30px 0px 0px 30px ;
+float: left;
+position: relative;
+left: 990px;
+top: 10px;
+text-align: center;
+font-size: 40px;
+color: gold;
+text-shadow: 0 0 10px white;
+font-family: Amatic sc;
+background-image: url(images/tlo_zegarka.png);
+padding-left: 60px;
+padding-top: 18px;
+
+
+
+}
+
+
+
+#zdj_duze{
+width: 960px;
+height: 500px;  
+
+margin: 0 auto;
+
+
+}
+
+.zdj_male{
+width: 150px;
+height: 150px;
+opacity: 0.7;
+float: left;
+margin-left: 79px;
+margin-bottom: 30px;
+overflow: hidden;
+}
+
+.przycisk1:hover{
+top: 3px;
+left: 1px;
+box-shadow: -3px -3px  20px #0033CC;
+cursor: pointer;
+}
+
+.przycisk2:hover{
+top: 3px;
+left: 1px;
+box-shadow: -3px -3px  20px #0033CC;
+cursor: pointer;
+
+}
+
+#autor:hover{
+cursor: pointer;
+
+}
